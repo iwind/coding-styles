@@ -10,3 +10,4 @@
   * [Android](https://github.com/iwind/coding-styles/wiki/Android)
 * 数据库
   * [MySQL](https://github.com/iwind/coding-styles/wiki/MySQL)
+* [词汇表](https://github.com/iwind/coding-styles/wiki/词汇表)

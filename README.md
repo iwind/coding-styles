@@ -1,4 +1,4 @@
-一组编码规范：
+一组原创的编码规范：
 * [PHP](https://github.com/iwind/coding-styles/wiki/PHP)
 * [HTML](https://github.com/iwind/coding-styles/wiki/HTML)
 * [Javascript](https://github.com/iwind/coding-styles/wiki/Javascript)
@@ -11,3 +11,4 @@
 * 数据库
   * [MySQL](https://github.com/iwind/coding-styles/wiki/MySQL)
 * [词汇表](https://github.com/iwind/coding-styles/wiki/词汇表)
+

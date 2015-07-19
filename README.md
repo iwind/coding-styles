@@ -12,5 +12,6 @@
   * [MySQL](https://github.com/iwind/coding-styles/wiki/MySQL)
 * Web Server
   * [Nginx](https://github.com/iwind/coding-styles/wiki/Nginx)
+* [架构](https://github.com/iwind/coding-styles/wiki/架构)
 * [词汇表](https://github.com/iwind/coding-styles/wiki/词汇表)
 

@@ -5,6 +5,7 @@
 * [CSS](https://github.com/iwind/coding-styles/wiki/CSS)
 * [Java](https://github.com/iwind/coding-styles/wiki/Java)
 * [Objective-C](https://github.com/iwind/coding-styles/wiki/Objective-C)
+* [Erlang](https://github.com/iwind/coding-styles/wiki/Erlang)
 * [Shell](https://github.com/iwind/coding-styles/wiki/Shell)
 * 应用
   * [Android](https://github.com/iwind/coding-styles/wiki/Android)
